@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects-i-am-poor-android-guru2301.iml" filepath="$PROJECT_DIR$/Projects-i-am-poor-android-guru2301.iml" group="i-am-poor-android-guru2301" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="i-am-poor-android-guru2301/app" />
       <module fileurl="file://$PROJECT_DIR$/i-am-poor-android-guru2301.iml" filepath="$PROJECT_DIR$/i-am-poor-android-guru2301.iml" />
     </modules>
   </component>
